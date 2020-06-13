@@ -78,44 +78,6 @@ analytics:
     tracking_id          :
 
 
-# Site Author
-author:
-  name             : "BeyondSw"
-  avatar           : "profile.png"
-  bio              :
-  location         : 
-  employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            :
-  researchgate     : 
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
